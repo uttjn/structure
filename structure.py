@@ -1,6 +1,6 @@
 """
 
-Inspect the structure Python objects
+Inspect the structure of Python objects
 
 (c) Jason Utt
 
